@@ -1,0 +1,13 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "wCfSGHoJ0YXnizl2vjexf7D4phtwYAZe1pnX7uF5Hf5cFe6al6oy4N52yHbEPDDigQDpYLBb9ruHqBBEd8wI6Gj2NRx0o8ZkjbpDCYlm0li_WU0wSznDy0IOn1U28J9a5D5TTMdQOMl0mGpXNQhY6Q9mBns2ZiuUOXROZ_aPbyG1myANh1CsYYzLWJZPhC_Q-lwcz2smwW6tVfyGIgwuWK3zTJPx9Y_DhPyovINCrQkOoR6yaOBulGVN7ZEn1Yhw6R93OnGokhXYmaNerfnz-Cr3cl9tKIXoHJOJbpq1rPNSgr4pQnQQ5-TLq-9q_v7-ur-u3GGww3sTrjeAqvalNw", // Generate using npm
+      "e": "AQAB",
+      "ext": true,
+      "kid": "1c0e19db9c6d403139bfac2025b3ca",
+      "alg": "RS256",
+      "use": "sig"
+    }
+  ]
+}
